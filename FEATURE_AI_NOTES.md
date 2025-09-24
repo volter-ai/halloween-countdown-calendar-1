@@ -1,0 +1,1 @@
+Halloween countdown implemented with animated decorations and spooky styling. Uses Google Fonts 'Creepster' for thematic typography.
